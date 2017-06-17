@@ -15,3 +15,14 @@ Here is an example of the wind radii chart for Hurricane Katrina for the storm o
 #### Ike Storm 2008-09-13 12:00:00
 This plot is one of the results coming from the assignment
 ![alt text](https://raw.githubusercontent.com/moralmar/geom_hurricane/master/020_figures/hurricane_ike.png)
+
+
+#### Katrina Storm 2005 - ALL
+This plot is a result from the code (*geom_*s being overlapped)
+![alt text](https://raw.githubusercontent.com/moralmar/geom_hurricane/master/020_figures/hurricane_katrina_ALL.png)
+
+
+#### Ike Storm 2008 - ALL
+This plot is a result from the code (*geom_*s being overlapped)
+![alt text](https://raw.githubusercontent.com/moralmar/geom_hurricane/master/020_figures/hurricane_ike_ALL.png)
+
