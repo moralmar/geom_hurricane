@@ -1,5 +1,4 @@
-# geom_hurricane
-### Building Data Visualization Tools
+# Building Data Visualization Tools
 #### Instructions
 
 The purpose of this assignment is to draw on your knowledge of the grid and ggplot2 package to build a new geom. You will then need to load and tidy the provided dataset in order to plot the geom on a map.
@@ -11,3 +10,4 @@ This wind radii data provide a clearer picture of the storm structure than the s
 Here is an example of the wind radii chart for Hurricane Katrina for the storm observation recorded at 2005-08-29 12:00:00 UTC, right around the time the storm made landfall.
 
 ![alt text](https://raw.githubusercontent.com/moralmar/geom_hurricane/master/020_figures/hurricane_katrina.png)
+
