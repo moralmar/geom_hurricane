@@ -1,4 +1,4 @@
-# Building Data Visualization Tools
+# Build a New Geom
 #### Instructions
 
 The purpose of this assignment is to draw on your knowledge of the grid and ggplot2 package to build a new geom. You will then need to load and tidy the provided dataset in order to plot the geom on a map.
