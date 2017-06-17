@@ -9,6 +9,9 @@ This wind radii data provide a clearer picture of the storm structure than the s
 
 #### Katrina Storm 2005-08-29 12:00:00
 Here is an example of the wind radii chart for Hurricane Katrina for the storm observation recorded at 2005-08-29 12:00:00 UTC, right around the time the storm made landfall.
-
 ![alt text](https://raw.githubusercontent.com/moralmar/geom_hurricane/master/020_figures/hurricane_katrina.png)
 
+
+#### Ike Storm 2008-09-13 12:00:00
+This plot is one of the results coming from the assignment
+![alt text](https://raw.githubusercontent.com/moralmar/geom_hurricane/master/020_figures/hurricane_ike.png)
